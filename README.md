@@ -20,4 +20,21 @@ This repository contains all the programs for 100 Days of Code. I will post the 
 **5.** Write a program to copy one stack into another. 
        Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/Copy%20stack.c) for solution.
        
+## Day 2
+
+**1.** Write a program to define queues using arrays. 
+       Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/Queue%20Array.c) for solution.
+       
+**2.** Write a program to convert an infix expression to postfix expression.
+       Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/postfix.c) for solution.
+       
+**3.** Write a program to convert an infix expression to prefix expression.
+       Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/prefix.c) for solution.
+
+**4.** Write a program to implement Circular Queue.
+       Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/CircularQueue.c) for solution.
+       
+**5.** Write a program to implement Deque. 
+       Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/Deque.c) for solution.
+       
  
