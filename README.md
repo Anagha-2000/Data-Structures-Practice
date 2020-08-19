@@ -37,4 +37,7 @@ This repository contains all the programs for 100 Days of Code. I will post the 
 **5.** Write a program to implement Deque. 
        Click [**here**](https://github.com/Anagha-2000/Data-Structures-Practice/blob/master/Deque.c) for solution.
        
- 
+## Day 3
+
+
+
